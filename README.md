@@ -96,8 +96,8 @@ Feel free to fork this repo and contribute! We welcome improvements and new feat
 
 ## 📧 Contact
 For any inquiries, reach out at:
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [Arman Kianian](https://github.com/Armanx200)
+- Email: Kianianarman1@gmail.com
 
 ---
 
